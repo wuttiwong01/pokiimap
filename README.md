@@ -37,6 +37,7 @@ https://www.reddit.com/r/pokemongodev/comments/4trjum/pok%C3%A9mon_go_developmen
 
 # Warning
 see https://www.reddit.com/r/pokemongodev/comments/4td499/a_note_about_security/
+
 READ WARNING ABOUT POSSIBLE BAN WHEN USING ANY 3RD PARTY TOOLS
 
 I have no interests in stealing your accounts and passwords. 
