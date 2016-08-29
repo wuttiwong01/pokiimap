@@ -3,30 +3,48 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PokiiMap's documentation!
+PokiiMap By Kii Dev
 ====================================
 
-# PokiiMap by KiiDev
-Po**kii**Map is basically PokeVision on Android, an app to help you san for pokemons in a map, because it's really important to catch'em all!
+About
+##################
 
-####read warnings and use at your own risks
+**PokiiMap** is basically PokeVision on Android, an app to help you san for pokemons in a map, because it's really important to catch'em all!
 
-.. image:: _static/img/screen1.png
-    :align: center
-.. image:: _static/img/screen2.png
-    :align: center
+**PokiiMap is a 3rd party PokemonGO client that is not affilicated with Niantic. Please read warnings and use at your own risks**
 
-Contents:
 
+Features
+##################
+
+PokiiMap is one of the most featured PokemonGO scanner for Android, you should be able to find any feature that other android scanners have in PokiiMap. Here are some highlights:
+
+* Multiple accounts (Google or PTC accounts)
+* Scan pokemons
+* Pokemons notifications
+* Check pokemon inventories, show IV and other stats of the pokemons in your accounts
+* Catch/loot (UNSAFE, advanced feature)
+* Sniping (UNSAFE, advanced feature)
+
+How-to
+##################
 .. toctree::
    :maxdepth: 2
+   :titlesonly:
+   :caption: User Documentation
+   
+
+   getting_started
+   notifications
+   pokiibank
+   catch_loot
+   faq
 
 
+Screenshots
+##################
 
-Indices and tables
-==================
+.. image:: _static/img/phone.png
+    :align: center
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
