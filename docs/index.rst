@@ -13,6 +13,9 @@ About
 
 **PokiiMap is a 3rd party PokemonGO client that is not affilicated with Niantic. Please read warnings and use at your own risks**
 
+If you just want to use it, get the latest release `HERE`_
+
+.. _HERE: https://github.com/kiideveloper/pokiimap/releases/latest
 
 Features
 ##################
@@ -39,8 +42,8 @@ How-to
    pokiibank
    catch_loot
    faq
-
-
+   download
+   
 Screenshots
 ##################
 
