@@ -48,3 +48,10 @@ Only time can tell whether "Sniping" is safer than normal teleporting or extreme
 "Sniping" only works with catch but not with loot. That's why in PokiiMap, once you loot once and then loot another pokestop at a faraway location, you get `soft ban`_ quickly.
 
 .. _`Sniping`: catch_loot.html#sniping
+
+It's not "working", what should I do?
+--------------------------------------
+
+* Go to account setting screen, use the refresh button on the top right to check your accounts to make sure they are in good shape.
+* Go to settings and make sure you have the latest update
+* Go to settings and make sure the pokemons you want to see is in the "Pokemon to show" list.
