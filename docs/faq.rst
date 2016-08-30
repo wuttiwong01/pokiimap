@@ -1,7 +1,7 @@
 Frequently Asked Questions
 ==========================
 
-Is it safe? 
+Is it "safe"? 
 --------------------------------------
 
 Yes and NO but it's a cat and mouse game that is always chaning. Any account that you use to log into a 3rd party PokemonGO scanner is considered unsafe.
@@ -34,6 +34,17 @@ The server keeps track of each of the locations that you send and calculate the 
 What is "soft ban"?
 --------------------------------------
 
-In PokemonGO, if you spin a pokestop and gets nothing from it, or when you throw a pokeball at a pokemon and it immediately flees, then you have encountered a "soft ban". Soft bans are issued because server detects that unnatural `teleport`_ . 
+In PokemonGO, if you spin a pokestop and gets nothing from it, or when you throw a pokeball at a pokemon and it immediately flees, then you have encountered a "soft ban". Soft bans are issued because server detects unnatural `teleport`_ . 
 
 Currently, you can get rid of a soft ban if you exist the game and wait for some time, depending on how far you teleported, the time may range from 15 mins to a few hours. The soft ban will also go away if you keep spinning the same pokestop for somewhere between 20 - 40 times. 
+
+What is "sniping"?
+--------------------------------------
+
+`Sniping`_ means a hack that allows you to catch a faraway pokemon without getting `soft ban`_ . The exact method won't be discussed here but what it basically does is that it will spoof your location so that the server thinks you didn't `teleport`_
+
+Only time can tell whether "Sniping" is safer than normal teleporting or extremely unsafe. 
+
+"Sniping" only works with catch but not with loot. That's why in PokiiMap, once you loot once and then loot another pokestop at a faraway location, you gets `soft ban`_ quickly.
+
+.. _`Sniping`: catch_loot.html#sniping
