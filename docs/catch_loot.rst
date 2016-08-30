@@ -14,10 +14,11 @@ UNSAFE warning
 Depending on how you use it, your account may get flagged for cheating. To catch/loot in PokiiMap, you will need first enable it first in setting.
 
 When you catch and loot, PokiiMap spoofs your location to be next to the Pokemon and Pokestop. This "fake" location is sent to the server and may triggered
-a `softe ban`_ . Spoofing your locations from 1 location to another location is known as `teleporting`_ , if you teleport too much and too far, it's obvious to 
+a `soft ban`_ . Spoofing your locations from 1 location to another location is known as `teleporting`_ , if you teleport too much and too far, it's obvious to 
 the server that you are using a tool to change your location.
 
 .. image:: _static/img/catch2.png
+
 
 Sniping
 ---------------
@@ -28,3 +29,8 @@ See `sniping`_ about what sniping is. In PokiiMap, you can enable "sniping" in s
 .. image:: _static/img/sniping2.png
 .. image:: _static/img/sniping3.png
 .. image:: _static/img/sniping4.png
+
+
+.. _`soft ban`: faq.html#soft-ban
+.. _`teleporting`: faq.html#what-is-teleport
+.. _`sniping`: faq.html#what-is-sniping
