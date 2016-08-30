@@ -20,8 +20,11 @@ Primary Account
 ~~~~~~~~~~~~~~~~~~~
 
 Primary account is optional, you don't need to add one if you just want to scan for pokemons.
-If you want to use the :ref:`PokiiBank` feature, or :ref:`catch/loot` , then you will need to 
+If you want to use the `PokiiBank`_ feature, or `catch/loot`_ , then you will need to 
 add a primary account to use them.
+
+.. _`catch/loot`: catch_loot.html
+.. _`PokiiBank`: pokiibank.html
 
 .. _`scan accounts`:
 
@@ -32,7 +35,7 @@ Scan account is only used for scanning, each scan can only scan a 70m radius eve
 you will need to add at least 5 scan accounts to get a decent scanning speed. 
 
 You can configure the *search range* in PokiiMap's setting, increasing the step also increases the time it will 
-take to complete a scan. Each step increase widen the search range by 140m, for example, search range of 2 means a radius of 210m, search range of
+take to complete a scan. Each step widens the search range by 140m, for example, search range of 2 means a radius of 210m, search range of
 3 means a radius of 350m, and so on...
 
 

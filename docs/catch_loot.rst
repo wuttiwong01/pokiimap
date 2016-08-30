@@ -22,7 +22,7 @@ the server that you are using a tool to change your location.
 Sniping
 ---------------
 
-See `sniping`_ about what sniping is. In PokiiMap, you can enable "sniping" in setting. Read the warning (and just ignore it ;) ) . Once sniping is enabled (safe mode is OFF) , you will see extra options from the slide out drawer to give you spawn locations of rare pokemons. Normally if you just go to that pokemon location with GPS spoof, you will immediately get a `soft ban`_ . When sniping is turned on, PokiiMap helps you spoof your location so that you don't get soft ban when you catch the pokemon. 
+See `sniping`_ about what sniping is. In PokiiMap, you can enable "sniping" in setting. Read the warning (and just ignore it ;) ) . Once sniping is enabled (and safe mode is OFF) , you will see extra options from the slide out drawer to give you spawn locations of rare pokemons. Normally if you just go to that pokemon location with GPS spoof, you will immediately get a `soft ban`_ . When sniping is turned on, PokiiMap helps you spoof your location so that you don't get soft ban when you catch the pokemon. 
 
 .. image:: _static/img/sniping1.png
 .. image:: _static/img/sniping2.png
