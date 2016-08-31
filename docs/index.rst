@@ -40,6 +40,7 @@ How-to
    getting_started
    notifications
    pokiibank
+   livemap
    catch_loot
    faq
    download

@@ -31,8 +31,7 @@ add a primary account to use them.
 Scan account
 ~~~~~~~~~~~~~~~~~~~
 
-Scan account is only used for scanning, each scan can only scan a 70m radius every 10 seconds. Therefore
-you will need to add at least 5 scan accounts to get a decent scanning speed. 
+Scan account is only used for scanning, each scan can only scan a 70m radius every 10 seconds. You only need to add 1 account to scan, but if you want faster scanning, you may want to add more. 
 
 You can configure the *search range* in PokiiMap's setting, increasing the step also increases the time it will 
 take to complete a scan. Each step widens the search range by 140m, for example, search range of 2 means a radius of 210m, search range of
