@@ -25,13 +25,14 @@ Use the "Private server" option from the slide out drawer to go to the private l
 
 To find your address look at this : http://bit.ly/2aweVR1 (if you have a local server) and http://bit.ly/1dWVBmR (if you want to remote server).
 
-PokiiMap will not have any options to help you set up the private server, you will need to read the PokemonGo-Map or Pogom documentations to find out how to set up the server. 
+PokiiMap will not have any options to help you set up the private server, you will need to read the PokemonGo-Map or Pogom documentations to find out how to set up the server. Here is a short guide for `PokemonGo-Map`_
 
 
 .. image:: _static/img/livemap3.png
 .. image:: _static/img/livemap4.png
 
 
+.. _`PokemonGo-Map`: https://github.com/kiideveloper/PokemonGo-Map/blob/develop/docs/extras/pokiimap.md
 .. _`[PokemonGo-Map]`: https://github.com/PokemonGoMap/PokemonGo-Map
 .. _`[Pogom]`: https://github.com/favll/pogom
 
