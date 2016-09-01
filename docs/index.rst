@@ -15,7 +15,7 @@ About
 
 If you just want to use it, get the latest release `HERE`_
 
-.. _HERE: https://github.com/kiideveloper/pokiimap/releases/latest
+.. _HERE: download.html
 
 Features
 ##################

@@ -12,7 +12,10 @@ Full version
 
 Download the latest release here `FULL VERSION`_
 
-.. _`FULL VERSION`: https://github.com/kiideveloper/pokiimap/releases/latest
+alternative download: `[From Github]`_
+
+.. _`FULL VERSION`: http://www.apkmirror.com/apk/kiidev/pokiimap/pokiimap-1-5-1-release/
+.. _`[From Github]`: https://github.com/kiideveloper/pokiimap/releases/latest
 
 
 Human version
@@ -20,4 +23,7 @@ Human version
 
 Download the latest release here `HUMAN VERSION`_
 
-.. _`HUMAN VERSION`: https://github.com/kiideveloper/pokiimap-human/releases/latest
+alternative download: `[Human version From Github]`_
+
+.. _`HUMAN VERSION`: http://www.apkmirror.com/apk/kiidev/pokiimap/pokiimap-1-5-1-human-release/
+.. _`[Human version From Github]`: https://github.com/kiideveloper/pokiimap-human/releases/latest
