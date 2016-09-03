@@ -60,7 +60,8 @@ Account safety
 ---------------
 
 PokiiMap has a safe mode feature to ensure maxium safety of your primary account. When you turn on "Safe mode" (ON by default), you primary account will only
-be used for _PokiiBank and nothing else. This is as safe as a 3rd party scanner can be at this time.
+be used for `PokiiBank`_ and nothing else. This is as safe as a 3rd party scanner can be at this time.
+
 
 .. image:: _static/img/safemode.png
 
