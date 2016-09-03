@@ -13,6 +13,8 @@ About
 
 **PokiiMap is a 3rd party PokemonGO client that is not affilicated with Niantic. Please read warnings and use at your own risks**
 
+**PokiiMap is NOT a PokemonGo bot, it will NOT perform ANY actions AUTOMATICALLY without you pressing some buttons first**. You can catch/loot in PokiiMap but YOU DO NOT HAVE TO USE THEM. If you don't enable and use catch/loot, PokiiMap is just very full featured pokemon scanner app. 
+
 If you just want to use it, get the latest release `HERE`_
 
 .. _HERE: download.html
@@ -26,8 +28,9 @@ PokiiMap is one of the most featured PokemonGO scanner for Android, you should b
 * Scan pokemons
 * Pokemons notifications
 * Check pokemon inventories, show IV and other stats of the pokemons in your accounts
-* Catch/loot (UNSAFE, advanced feature)
-* Sniping (UNSAFE, advanced feature)
+* Live maps
+* Catch/loot (UNSAFE, advanced feature, disabled by default)
+* Sniping (UNSAFE, advanced feature, disabled by default)
 
 How-to
 ##################
