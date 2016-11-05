@@ -11,7 +11,7 @@ News 11/5/16
 
 All live map down , scanning/catch/loot functions are being worked on. 
 
-No ETA, I am busy with other things in the next two weeks but will try to work on pokiimap when possible. 
+No ETA, I am busy with other things but will try to work on pokiimap when possible. 
 
 Stay tuned for updates at https://plus.google.com/communities/113038509463835490119
 
