@@ -6,6 +6,19 @@
 PokiiMap By Kii Dev
 ====================================
 
+News
+##################
+
+Version 2.0.0
+  * Scan/catch/loot now all work
+  
+  * Due to searver changes, Pokemons escape time will be unknown unless it's less than 1 min
+  
+  * Pokemons with unknown timer will be cleared out after 15 minutes
+  
+  * More live maps and sniping sites will come back, stay tuned!
+
+
 About
 ##################
 
